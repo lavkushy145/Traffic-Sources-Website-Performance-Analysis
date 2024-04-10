@@ -493,8 +493,4 @@ WHERE website_pageviews.pageview_url IN ('/billing','/billing-2')
 - Now, we can conclude that modification of billing page helped alot to generate more revenue than previous billing page.
 
 # THE END
-![image](https://github.com/saurav2021c/Website_Performance_SQL-Project/assets/97289683/d28fb664-104e-4373-90ed-74d165371a93)
-<p>
- <a href="https://www.linkedin.com/in/sauravsinghhhh/" target="_blank" rel="noreferrer"><img src="https://github.com/saurav2021c/Portfolio-project/blob/master/src/images/LinkedIN_black.png" width="35" /></a>
-</p>
 
