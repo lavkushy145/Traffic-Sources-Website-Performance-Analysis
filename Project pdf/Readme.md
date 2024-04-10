@@ -30,7 +30,6 @@
 ![image](https://github.com/saurav2021c/Website_Performance_SQL-Project/assets/97289683/f969a732-4254-4b54-ae95-13317c7b4982)
 ![image](https://github.com/saurav2021c/Website_Performance_SQL-Project/assets/97289683/6e2982ad-b3f0-467f-aa64-ff7feaa88b1a)
 ![image](https://github.com/saurav2021c/Website_Performance_SQL-Project/assets/97289683/998fd9de-f844-4033-b824-9ff8c77faa6a)
-![image](https://github.com/saurav2021c/Website_Performance_SQL-Project/assets/97289683/43610a11-755e-436d-903b-80a5e704a4c7)
 
 
 
